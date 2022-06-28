@@ -1,7 +1,10 @@
 import { server } from '../config';
 import Head from 'next/head'
 import ArticleList from '../components/ArticleList';
+//const jwt = require('jsonwebtoken');
+
 export default function Home({articles}) {
+  //console.log(jwt.sign({ foo: 'bar' }, 'shhhhh'));
   return (
     <div> 
       <Head>
