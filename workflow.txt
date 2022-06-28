@@ -1,0 +1,9 @@
+video url : https://www.youtube.com/watch?v=mTz0GXj8NN0&ab_channel=TraversyMedia
+next day work on 39.50 minute
+
+todays done : 
+- next js setup, work on custom component, work on jsx custom, work on route call / link, work on json data call from another server
+===================================================================================
+- next day work from 51.26 
+-----------------------------------------------------------------------------------
+my time of start : 04: 54 PM
